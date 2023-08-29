@@ -1,3 +1,3 @@
-# aind-capsule-template
+# Microns Functional Extraction
 
-Basic structure of a capsule to be customized as needed.
+Capsule to extract the functional data from the datajoint database into a data asset that is more portable
